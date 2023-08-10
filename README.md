@@ -11,3 +11,5 @@ Stay vigilant! A countdown timer on the interface marks the duration until the g
 
 Customization:
 Immerse yourself in the game further by selecting your preferred player character. Additionally, fine-tune the game's audio volume to your preference.
+
+[Play Now](https://web-development-environments-2023.github.io/assignment2-204687685_323225409/)
